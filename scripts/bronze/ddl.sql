@@ -6,7 +6,7 @@ this script i used to create tables for bronze layer ,
 and to run this script to re-define DDL structure of this layer tables
 
 =================================================== */
-F OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
+iF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
     DROP TABLE bronze.crm_cust_info;
 GO
 
@@ -84,7 +84,6 @@ CREATE TABLE bronze.erp_px_cat_g1v2 (
     subcat       NVARCHAR(50),
     maintenance  NVARCHAR(50)
 );
-GOonze;
 GO
 
 
