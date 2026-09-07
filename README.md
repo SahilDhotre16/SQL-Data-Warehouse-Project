@@ -278,7 +278,7 @@ SQL-Warehouse-Project/
 
 ---
 
-## 💼Why This Project Is Relevant to Junior Data Engineer Roles
+## Why This Project Is Relevant to Junior Data Engineer Roles
 
 This project demonstrates more than individual SQL queries. It shows an end-to-end data engineering workflow:
 
